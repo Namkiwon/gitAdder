@@ -9,6 +9,8 @@ public class add {
 		int num2 = 2;
 		sum  = num1 + num2;
 	    System.out.println(sum);
+	    System.out.println(sum);
+	    
 	}
 
 }
